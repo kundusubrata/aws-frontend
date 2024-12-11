@@ -5,9 +5,9 @@ This project showcases a **landing page**, **about page**, **product listing pag
 
 ## Screenshots
 
-### [Landing Page](./public/aws-frontend-landing.png)
+### ![Landing Page](./public/aws-frontend-landing.png)
 
-### [Products Page](./public/aws-frontend-products.png)
+### ![Products Page](./public/aws-frontend-products.png)
 
 ## Prerequisites
 
